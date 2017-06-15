@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Fabrice Jumel"
 description              : "What's up"
 url                      : "https://fabricejumel.github.io"
-baseurl                  : #"/minimal"
+baseurl                  : "/minimal"
 repository               : # GitHub username/repo-name e.g. "fabricejumel/minimal"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
