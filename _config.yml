@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Fabrice Jumel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Professor Assistant, CPE Lyon, INRIA CITI CHROMA"
   location         : Lyon
