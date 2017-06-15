@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter fabricejumel
 facebook:
-  username               : &facebook fabricejumel
+  username               : &facebook fabricejumel.10
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
