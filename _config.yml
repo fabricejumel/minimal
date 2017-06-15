@@ -28,22 +28,22 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+#staticman:
+#  allowedFields          : ['name', 'email', 'url', 'message']
+#  branch                 : "master"
+#  commitMessage          : "New comment."
+#  filename               : comment-{@timestamp}
+#  format                 : "yml"
+#  moderation             : true
+#  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+#  requiredFields         : ['name', 'email', 'message']
+#  transforms:
+#    email                : "md5"
+#  generatedFields:
+#    date:
+#      type               : "date"
+#      options:
+#        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Fabrice Jumel"
   avatar           : "/assets/images/Fabrice_Jumel_200x200.jpg"
-  bio              : "Professor Assistant, CPE Lyon, INRIA CITI CHROMA"
-  location         : Lyon, France
+  bio              : "Professor Assistant, Creative&Robot Technologist, CPE Lyon, INRIA CITI CHROMA"
+  location         : Lyon France
   email            :
   uri              :
   bitbucket        :
