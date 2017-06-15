@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "BLOG"
+title                    : "My BLOG"
 title_separator          : "-"
 name                     : "Fabrice Jumel"
 description              : "What's up"
