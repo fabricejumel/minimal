@@ -15,9 +15,9 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    {% if author.youtube %}
-        {% if author.youtube contains "://" %}
-          <li><a href="{{ author.youtube }}" ><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+    {% if site.author.youtube %}
+        {% if site.author.youtube contains "://" %}
+          <li><a href="{{ site.author.youtube }}" ><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
         {% endif %}
     {% endif %}
      </ul>
