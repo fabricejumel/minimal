@@ -2,7 +2,11 @@
 main:
   - title: "About Me"
     url: /about/
-  -title: "Archive"  
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
     url: /page-archive/
   - title: "lorem-ipsum"
     url: /lorem-ipsum/
