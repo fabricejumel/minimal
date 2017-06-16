@@ -2,6 +2,8 @@
 main:
   - title: "About Me"
     url: /about/
+  - title: "lorem-ipsum"
+    url: /lorem-ipsum/
   - title: "Template Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
