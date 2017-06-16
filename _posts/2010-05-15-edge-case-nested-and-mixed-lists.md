@@ -64,3 +64,11 @@ divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
 The kerel summation radius $r$ is equal to the N-simplex height $h$.
 
 $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+
+### Code Higligthing Test with Rouge
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
