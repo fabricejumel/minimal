@@ -1,0 +1,1 @@
+Check to include MAthJax only if use probably add a test on page.mathjax before to include and remove global config at true in order to just use local setting mathjax : true in Page or Post
