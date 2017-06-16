@@ -191,6 +191,8 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# MathJax
+  mathjax: true
 
 # Outputting
 permalink: /:categories/:title/
@@ -255,5 +257,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
 
 
