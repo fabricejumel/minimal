@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Robots & more"
 title_separator          : "-"
 name                     : "Fabrice Jumel"
-description              : "What's up"
+description              : "Blog"
 url                      : "https://fabricejumel.github.io"
 baseurl                  : "/minimal"
 repository               : # GitHub username/repo-name e.g. "fabricejumel/minimal"
@@ -247,9 +247,9 @@ defaults:
       share: true
       related: true
   # _pages
-  #- scope:
-  #    path: "_pages"
-  #    type: pages
-  #  values:
-  #    layout: single
-  #    author_profile: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
